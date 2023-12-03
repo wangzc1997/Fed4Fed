@@ -1,5 +1,3 @@
-## Project Description
-This project uses the code from https://github.com/Accenture/Labs-Federated-Learning/blob/clustered_sampling to train models, and writes and executes test logic based on trained iid and non-iid mnist/cifar models, using the test results as inputs for this work.
 
 ## Model Training
 
